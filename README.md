@@ -77,6 +77,7 @@ Uma análise da evolução dos meus **43+ repositórios públicos** e **+1.860 c
 | :--- | :--- | :--- |
 | 🔐 **[cripta-chat](https://github.com/zedutra/cripta-chat)** | Plataforma de mensagens com **Criptografia de Ponta a Ponta (E2EE)** e arquitetura **Zero-Knowledge**. Geração de chaves e envelopamento híbrido (**RSA-OAEP 2048-bit**, **ECDH P-256** + **AES-GCM 256-bit**) executados 100% no navegador via *Web Crypto API*, autenticação com Passkeys (WebAuthn) + 2FA TOTP e assistente de IA integrado. | `Laravel 13` `React 19` `TypeScript` `Inertia v3` `Web Crypto API` `Docker` |
 | 🍽️ **[bandeco-unicamp-limeira](https://github.com/zedutra/bandeco-unicamp-limeira)** | Aplicação de linha de comando (CLI) que permite consultar o cardápio do Restaurante Universitário da **Unicamp Limeira**, com filtros rápidos por data, tipo de refeição e opção vegetariana. | `Python` `CLI` |
+| 🤖 **[zilean-bot](https://github.com/zedutra/zilean-bot)** | Bot para Discord integrado à API da **Riot Games** para consulta de informações e estatísticas de partidas/jogadores de League of Legends. | `JavaScript` `Node.js` `Riot API` |
 | 🌐 **[zedutra.github.io](https://github.com/zedutra/zedutra.github.io)** | Meu site e portfólio pessoal onde apresento em detalhes minha trajetória profissional, certificações em Cibersegurança/Red Team e projetos. | `HTML5` `CSS3` `JavaScript` |
 
 ---
