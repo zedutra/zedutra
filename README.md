@@ -11,10 +11,11 @@ $$$$$$$$\ $$$$$$$$\       $$$$$$$  |\$$$$$$  |   $$ |   $$ |  $$ |$$ |  $$ |
 \________|\________|      \_______/  \______/    \__|   \__|  \__|\__|  \__|
 ```
 
-> *"Sou um técnico, mas tenho técnica só dentro da técnica, fora disso sou um ser humano."*
+# Olá, eu sou o José Vitor Dutra (@zedutra) 👋☕
 
 ### 🛡️ Especialista em Cibersegurança & Desenvolvedor Web Full Stack 💻
 
+> *"Sou um técnico, mas tenho técnica só dentro da técnica, fora disso sou um ser humano."*
 
 [![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-zedutra.github.io-10b981?style=for-the-badge&logo=googlechrome&logoColor=white)](https://zedutra.github.io/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-zedutra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/zedutra)
@@ -81,11 +82,6 @@ Uma análise da evolução dos meus **43+ repositórios públicos** e **+1.860 c
 ---
 
 ## 📈 Estatísticas no GitHub
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=zedutra&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats de zedutra" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zedutra&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages de zedutra" />
-</div>
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=zedutra&theme=tokyonight&hide_border=true&locale=pt_BR" alt="GitHub Streak de zedutra" />
