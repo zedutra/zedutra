@@ -10,9 +10,6 @@ $$$$$$$$\ $$$$$$$$\       $$$$$$$\  $$\   $$\ $$$$$$$$\ $$$$$$$\   $$$$$$\
 $$$$$$$$\ $$$$$$$$\       $$$$$$$  |\$$$$$$  |   $$ |   $$ |  $$ |$$ |  $$ |
 \________|\________|      \_______/  \______/    \__|   \__|  \__|\__|  \__|
 ```
-
-# Olá, eu sou o José Vitor Dutra (@zedutra) 👋☕
-
 ### 🛡️ Especialista em Cibersegurança & Desenvolvedor Web Full Stack 💻
 
 > *"Sou um técnico, mas tenho técnica só dentro da técnica, fora disso sou um ser humano."*
